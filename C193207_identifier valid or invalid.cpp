@@ -29,10 +29,12 @@ int main()
 
     if(c==1)
     {
+        // valid
         cout<<endl<<" Valid identifier"<<endl;
     }
     else
     {
+        // invalid
         cout<<endl<<" Not a Valid identifier"<<endl;
     }
 
